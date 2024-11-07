@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config" name="buy" path="/buy" id="75364f33-cf4b-4a2b-b339-32f81cd19471">
-  <con:settings id="026f169d-bfd2-41cf-9f2a-9e20d05c5b01">
+<con:resource xmlns:con="http://eviware.com/soapui/config" id="75364f33-cf4b-4a2b-b339-32f81cd19471" name="buy" path="/buy">
+  <con:settings id="04c00bb5-7d5a-41f3-8006-d31a471ceed7">
     <con:setting id="d2e78192-32e5-44ea-b917-4dccd7c6470bfileName">buy</con:setting>
     <con:setting id="75364f33-cf4b-4a2b-b339-32f81cd19471fileName">buy</con:setting>
   </con:settings>
@@ -18,7 +18,7 @@
       <con:default/>
     </con:parameter>
   </con:parameters>
-  <con:method name="Method 1" id="912196f2-5bd1-4263-af0e-9382ebdf8587" method="GET">
+  <con:method id="912196f2-5bd1-4263-af0e-9382ebdf8587" method="GET" name="Method 1">
     <con:settings/>
     <con:parameters/>
     <con:representation type="REQUEST">
@@ -26,7 +26,7 @@
       <con:params/>
     </con:representation>
     <con:representation type="FAULT">
-      <con:mediaType xsi:nil="true"/>
+      <con:mediaType/>
       <con:status>405</con:status>
       <con:params/>
       <con:element>data</con:element>
@@ -35,9 +35,9 @@
       <con:mediaType>application/json</con:mediaType>
       <con:status>200</con:status>
       <con:params/>
-      <con:element xmlns:buy="http://localhost/buy">buy:Response</con:element>
+      <con:element>buy:Response</con:element>
     </con:representation>
-    <con:request name="Request 1" id="b797c37e-2328-43f9-b0d6-f1d993c8419f" mediaType="application/json" postQueryString="false">
+    <con:request id="b797c37e-2328-43f9-b0d6-f1d993c8419f" mediaType="application/json" name="Request 1" postQueryString="false">
       <con:settings>
         <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
       </con:settings>
