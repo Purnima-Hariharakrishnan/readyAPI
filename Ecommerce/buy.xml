@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config" name="buy" path="/buy" id="75364f33-cf4b-4a2b-b339-32f81cd19471">
-  <con:settings>
+  <con:settings id="026f169d-bfd2-41cf-9f2a-9e20d05c5b01">
     <con:setting id="d2e78192-32e5-44ea-b917-4dccd7c6470bfileName">buy</con:setting>
     <con:setting id="75364f33-cf4b-4a2b-b339-32f81cd19471fileName">buy</con:setting>
   </con:settings>
