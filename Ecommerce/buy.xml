@@ -37,7 +37,7 @@
       <con:params/>
       <con:element>buy:Response</con:element>
     </con:representation>
-    <con:request id="b797c37e-2328-43f9-b0d6-f1d993c8419f" mediaType="application/json" name="Request 1" postQueryString="false">
+    <con:request id="b797c37e-2328-43f9-b0d6-f1d993c8419f" mediaType="application/json" name="Request New" postQueryString="false">
       <con:settings>
         <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
       </con:settings>
