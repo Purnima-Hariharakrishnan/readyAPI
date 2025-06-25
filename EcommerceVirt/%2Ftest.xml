@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:restMockAction xmlns:con="http://eviware.com/soapui/config" id="85ae84c1-0d58-4bad-a82d-ea8499dc51cc" method="GET" name="/test" resourcePath="/test">
-  <con:settings id="8ec0e7a7-41f3-4909-9e99-85eb4fded6ee">
+  <con:settings>
     <con:setting id="b6e40973-6e49-41a5-83fb-684a88a333defileName">%2Ftest</con:setting>
     <con:setting id="85ae84c1-0d58-4bad-a82d-ea8499dc51ccfileName">%2Ftest</con:setting>
   </con:settings>

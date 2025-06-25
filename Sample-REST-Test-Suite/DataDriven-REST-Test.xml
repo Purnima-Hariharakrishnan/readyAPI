@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testCase xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" id="040f09d4-dbf2-4816-9383-1b0a6085e75a" keepSession="false" name="DataDriven REST Test" searchProperties="true" timeout="0" wsrmAckTo="" wsrmEnabled="false" wsrmVersion="1.0" zephyrTestId="" zephyrTestName="">
-  <con:description id="9b323def-d049-4f2a-813f-fd8c667de9cb">Datadriven test help test a scenario where the same or multiple APIs need to be tested with a large amount of data inputs, it can also be used to test a large dataset of expected results through assertions. These data inputs can be picked up from a Database, Excel spread sheet
+  <con:description>Datadriven test help test a scenario where the same or multiple APIs need to be tested with a large amount of data inputs, it can also be used to test a large dataset of expected results through assertions. These data inputs can be picked up from a Database, Excel spread sheet
 and many other data entities.
 
 Steps:

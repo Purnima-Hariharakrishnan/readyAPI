@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:restMockAction xmlns:con="http://eviware.com/soapui/config" id="3436b671-55f7-47d8-85d7-0ccdca7da492" method="GET" name="buy" resourcePath="/buy">
-  <con:settings id="30611c8c-2415-4ff1-be01-827b4d93b419">
+  <con:settings>
     <con:setting id="ac8250b4-a453-4acb-ace2-9cb35ecec996fileName">buy</con:setting>
     <con:setting id="3436b671-55f7-47d8-85d7-0ccdca7da492fileName">buy</con:setting>
   </con:settings>

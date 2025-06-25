@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:restMockAction xmlns:con="http://eviware.com/soapui/config" id="9d18978b-2c80-4d62-928a-b052e23e798c" method="GET" name="logout" resourcePath="/logout">
-  <con:settings id="a4721807-99a7-4a26-90ae-09ab3e6b96ab">
+  <con:settings>
     <con:setting id="22685409-faf3-4411-8195-d31f6ef6c43efileName">logout</con:setting>
     <con:setting id="9d18978b-2c80-4d62-928a-b052e23e798cfileName">logout</con:setting>
   </con:settings>

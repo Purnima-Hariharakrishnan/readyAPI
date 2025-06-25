@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:restMockService xmlns:con="http://eviware.com/soapui/config" host="localhost" id="d81c4755-073b-46ab-aa30-a6df021d4d89" name="EcommerceVirt" path="/" port="8084" routeModeEnabled="false">
-  <con:settings id="da5833e7-b933-411f-b221-81f317bb393a">
+  <con:settings>
     <con:setting id="2a6dfe00-ebf7-44f2-8b96-64c69a5b5ed4fileName">RESTMockService</con:setting>
     <con:setting id="d81c4755-073b-46ab-aa30-a6df021d4d89fileName">EcommerceVirt</con:setting>
   </con:settings>
